@@ -2,7 +2,6 @@
 ## DATE:29.10.2024
 ### DEVELOPED BY : PAVANA G
 ### REGISTER NUMBER: 212222230105
-<H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
 
 ## Aim:</H3> 
  To implement the conversion of live speech to text.<BR>
